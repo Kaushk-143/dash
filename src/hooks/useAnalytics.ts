@@ -3,6 +3,8 @@
      try {
        setLoading(true)
        setError(null)
+     }
+   }
 
 -      // Fetch users with their sessions
 +      // Fetch users with their sessions from existing database
